@@ -1,9 +1,9 @@
 # Hi, I am Luiz Eugênio! 👋
 
-With eight years of software engineering experience, my professional journey has been characterized by continuous learning and evolution. I began by working with antiquated technologies such as VB.NET, WebForms, and ADO.NET, establishing a solid and profound foundation of knowledge.
+As a confident and highly skilled .NET software engineer with nearly a decade of hands-on experience, I excel in crafting robust, scalable, high-performance applications using cloud-native technologies. My expertise includes the full range of modern tools, from .NET Core 3.1, 7, and 8 to C#, REST APIs, PostgreSQL, and MsSQL, enabling me to deliver powerful and efficient solutions.
 
-This knowledge base of old technologies has provided me with a comprehensive and detailed view of project lifecycles, contributing to my ability to anticipate challenges and deliver robust solutions.
+In recent projects, I’ve been at the forefront of integrating advanced technologies such as RabbitMQ, Redis, Kubernetes, and Docker, seamlessly applying event-driven architecture to build state-of-the-art microservices. To ensure high reliability and optimal performance, I utilize Prometheus and Grafana for performance monitoring and DataDog for comprehensive system monitoring and alerting.
 
-Over the past four years, I have focused on innovative projects, transitioning to cutting-edge technologies such as .NET Core, Microservices, RabbitMQ, Kafka, and event-driven and domain-driven architectures. I also highlight my unit and integration testing proficiency, primarily using xUnit.
+I am committed to writing clean, maintainable code, following SOLID and Clean Code principles, with rigorous unit and integration testing to guarantee quality. My collaborative approach in Agile environments ensures efficient project delivery from concept to production. 
 
-In summary, my professional journey reflects a constant pursuit of excellence and an inherent adaptability to the demands of the technology world. I am ready to face complex challenges, contribute to innovative projects, and add value through my diversified experience and deep understanding of software development. If there is a need for someone to lead or contribute to challenging projects, I am available to share my diverse experience and a profound understanding of software development. I am committed to adding value to dynamic teams and collaborating for the ongoing success of innovative projects.
+I thrive in fast-paced, innovative settings. I constantly stay ahead of industry trends and leverage the latest in .NET and cloud technologies to drive impactful results.
